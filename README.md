@@ -36,7 +36,7 @@ Over 12+ years, I have architected and shipped production systems for startups a
 
 | Domain | Regions Served | Stack & Highlights |
 | --- | --- | --- |
-| **Media Streaming (`StreamPrime`)** | United Kingdom | End-to-end streaming architecture (VOD & live sports), Node.js, TypeScript, React, Vue.js, Flutter, Redis, AWS |
+| **Media Streaming (VOD & Live Sports)** | United Kingdom | End-to-end streaming architecture (VOD & live sports), Node.js, TypeScript, React, Vue.js, Flutter, Redis, AWS |
 | **Fintech & Payments** | USA, Germany, UK | Secure REST/GraphQL APIs, third-party payment rails, Python (Django), Node.js, PostgreSQL/MySQL |
 | **E-Commerce & Marketplaces** | Kenya, UK, EU | Multi-vendor platforms, cross-platform mobile apps, Laravel, React, Next.js, Flutter |
 | **Mobility, Smart Parking & ERP** | East & South Africa | Full-stack web + Flutter mobile apps, offline-first sync, real-time fleet & operations |
