@@ -6,7 +6,6 @@
 - 🏆 **Google Developer Expert (GDE)** in Flutter & Dart
 - ☁️ **AWS Certified Solutions Architect**
 - 🎤 **International Tech Conference Speaker** & Developer Educator — [340,000+ followers on Instagram](https://www.instagram.com/officialallangram) (500K+ monthly views)
-- 🌍 Based in East Africa (UTC+3) · Open to **Global Remote** & **International Relocation**
 
 ---
 
